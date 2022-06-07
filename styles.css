@@ -1,0 +1,36 @@
+h1{
+    font-family: "Helvetica ";
+    font-size:large;
+    font-weight: bold;
+    margin:50px auto;
+    margin-left:700px;
+
+}
+
+#container{
+
+    height:300px;
+    width:30%;
+    margin:50px auto;
+    background-color:brown;     
+
+}
+
+#number{
+    height:20px;
+    width:20%;
+    background-color:white;
+    margin:50px auto;
+    border:1px solid black;
+    margin-top: 50px;
+    text-align:center;
+    
+
+}
+
+button{
+    margin:50px auto;
+    height:30px;
+    width:20%;
+    margin-left:90px;
+}
